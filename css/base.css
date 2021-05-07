@@ -16,3 +16,12 @@ body
     font-family: 'Open Sans', sans-serif;
 }
 
+body p 
+{
+    line-height: 1.6;
+}
+
+.intro 
+{
+    min-height: 100vh;
+}
